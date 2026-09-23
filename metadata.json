@@ -1,0 +1,8 @@
+{
+  "name": "স্বপ্নবাজ",
+  "description": "বাংলার গল্প, কবিতা ও উপন্যাসের ঘর - Social literary platform for Bangla writers and readers",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
